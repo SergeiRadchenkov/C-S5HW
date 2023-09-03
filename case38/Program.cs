@@ -48,4 +48,4 @@ double[] doubles = new double[size];
 FillArray(doubles);
 double res = FindDifMaxMin(doubles);
 PrintArray(doubles);
-Console.WriteLine($"Разница между максимальным и минимальным элементов массива: {res}.");
+Console.WriteLine($"Разница между максимальным и минимальным элементом массива: {res}.");
